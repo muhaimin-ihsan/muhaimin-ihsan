@@ -2,9 +2,9 @@
 
 I'm Muhaimin, an NUS undergraduate majoring in Data Science and Analytics
 
-I attempt to make graphs of any statistic I see, including personal ones. 
+I attempt to make graphs of any ounce of data I see, including personal ones. 
 
-Theres just a certain itch in me to find out more about my own Spotify history, or even my spendings.
+Theres just a certain itch in me to find out more about my own Spotify history, or even my spending history.
 
 My main programming tach is Python(pandas, Numpy), SQL, matplotlib and plotly to create graphs, and Juptyer to display them.
 
