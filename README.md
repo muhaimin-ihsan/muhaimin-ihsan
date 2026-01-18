@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+I'm Muhaimin, an NUS undergraduate majoring in Data Science and Analytics
+
+I attempt to make graphs of any statistic I see, including personal ones. 
+
+Theres just a certain itch in me to find out more about my own Spotify history, or even my spendings.
+
+My main programming tach is Python(pandas, Numpy), SQL, matplotlib and plotly to create graphs, and Juptyer to display them.
+
+My personal projects are of an upward trend, with one new aspect of a language being used for each one.
+
+Fun Facts about me:
+- I like looking around train stations
+- I dont like coffee or tea
+- I never get lost
 <!--
 **muhaimin-ihsan/muhaimin-ihsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
