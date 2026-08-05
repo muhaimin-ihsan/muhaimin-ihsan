@@ -4,7 +4,7 @@ I'm Muhaimin, an NUS undergraduate majoring in Data Science and Analytics
 
 I attempt to make graphs of any ounce of data I see, including personal ones. 
 
-My main programming tach is Python(pandas, Numpy), SQL, matplotlib and plotly to create graphs, and Juptyer to display them.
+My main programming tach is Python(pandas, Numpy), SQL, matplotlib and plotly to create graphs, and Juptyer/Power BI to display them.
 
 My personal projects are of an upward trend, with one new aspect of a language being used for each one.
 
